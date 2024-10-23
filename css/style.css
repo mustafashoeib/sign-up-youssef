@@ -54,12 +54,13 @@ html{
   position: relative;
 }
 .left .logo{
-  max-width: 100%;
+  max-width: 40%;
   margin-bottom: 30px;
+  /* border-radius: 20%; */
 }
 .left h3{
-  color: white;
-  font-size: 30px;
+  color: hsl(0,0%,70%);
+  font-size: 1.5rem;
   font-weight: normal;
 }
 .left .image{
